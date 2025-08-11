@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jl-kruger.github.io/green-gables-training/sitemap.xml
